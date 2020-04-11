@@ -1,0 +1,22 @@
+{
+	"name" : "Silent Assassin",
+	"description" : "New Pager mechanics for stealth.  Allows silently assassinating all guards",
+	"author" : "DrTachyon",
+	"contact" : "",
+	"version" : "2.4",
+	"updates" : [
+		{
+			"revision" : 2.4,
+			"identifier": "silentassassin"
+		}
+	],
+	"priority" : 1000,
+	"hooks" : [
+		{ "hook_id" : "lib/units/enemies/cop/copbrain",
+		  "script_path" : "SilentAssassin.lua" },
+		{ "hook_id" : "lib/tweak_data/playertweakdata",
+		  "script_path" : "SilentAssassin.lua" },
+		{ "hook_id" : "lib/managers/menumanager",
+		  "script_path" : "SilentAssassin.lua" }
+	]
+}

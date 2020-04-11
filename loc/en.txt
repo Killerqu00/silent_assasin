@@ -1,0 +1,17 @@
+{
+    "silent_assassin_title" : "Silent Assassin",
+    "silent_assassin_desc" : "Options for Silent Assassin",
+    "sa_num_pagers" : "Number of Pagers",
+    "sa_num_pagers_desc" : "Number of pagers allowed across all players",
+    "sa_num_pagers_per_player" : "Number Per Player",
+    "sa_num_pagers_per_player_desc" : "Number of pagers a single player may answer",
+    "sa_pagers_0" : "0",
+    "sa_pagers_1" : "1",
+    "sa_pagers_2" : "2",
+    "sa_pagers_3" : "3",
+    "sa_pagers_4" : "4",
+    "sa_enabled_title" : "Enable Silent Assassin",
+    "sa_enabled_desc" : "Enable Silent Assassin mod",
+    "sa_kill_pager_enabled_title" : "No Pager on Stealth Kill",
+    "sa_kill_pager_enabled_desc" : "If set, no pager will sound when an unalerted guard is killed in stealth"
+}
