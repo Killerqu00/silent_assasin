@@ -1,0 +1,17 @@
+{
+    "silent_assassin_title" : "Silent Assassin",
+    "silent_assassin_desc" : "Настройки мода Silent Assasin",
+    "sa_num_pagers" : "Кол-во пейджеров",
+    "sa_num_pagers_desc" : "Общее кол-во пейджеров на всех игроков",
+    "sa_num_pagers_per_player" : "Кол-во на игрока",
+    "sa_num_pagers_per_player_desc" : "Кол-во пейджеров, на которые может ответить один и тот же игрок",
+    "sa_pagers_0" : "0",
+    "sa_pagers_1" : "1",
+    "sa_pagers_2" : "2",
+    "sa_pagers_3" : "3",
+    "sa_pagers_4" : "4",
+    "sa_enabled_title" : "Включить Silent Assassin",
+    "sa_enabled_desc" : "Включить мод Silent Assassin",
+    "sa_kill_pager_enabled_title" : "Пейджер не активируется при скрытном убийстве",
+    "sa_kill_pager_enabled_desc" : "Если выбрано, пейджер не активируется при убийстве не заметившего Вас охранника"
+}
